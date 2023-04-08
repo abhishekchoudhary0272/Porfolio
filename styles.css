@@ -230,7 +230,7 @@ li{
     
 }
 .project1{
-    background-image: url(/portfolio-images/gardening-image.png);
+    background-image: url(portfolio-images/gardening-image.png);
     background-size: contain;
     background-repeat: no-repeat;
     font-size: 1rem;
@@ -239,7 +239,7 @@ li{
     justify-content: right;
 }
 .project2{
-    background-image: url(/portfolio-images/agrify-Emandi-image.png);
+    background-image: url(portfolio-images/agrify-Emandi-image.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -293,7 +293,7 @@ li{
     color: white;
     z-index: 10;
     transition: all ease-in-out 0.5s;
-    width: 90%;
+    width: 60%;
 }
 .project-card:hover .project-content{
     /* color: black; */
