@@ -60,7 +60,7 @@ li{
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    height: 80vh;
+    height: 30rem;
     /* border: 2px solid red; */
 }
 .container2-content{
@@ -142,7 +142,7 @@ li{
 .container2-content .image{
     width: 50%;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     position: relative;
 }
@@ -226,11 +226,11 @@ li{
     justify-content: center;
     position: relative;
     box-shadow:0px 0px 40px #1f1f1f;
-    /* border: 2px solid red; */
+    
     
 }
 .project1{
-    background-image: url(/portfolio-images/gardening-image.png);
+    background-image: url(portfolio-images/gardening-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 1rem;
@@ -239,12 +239,12 @@ li{
     justify-content: right;
 }
 .project2{
-    background-image: url(/portfolio-images/agrify-Emandi-image.png);
+    background-image: url(portfolio-images/agrify-Emandi-image.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
-.project2{
-    background-image: url(/portfolio-images/razorpay_clone.png);
+.project3{
+    background-image: url(portfolio-images/razorpay_clone.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -665,13 +665,13 @@ li{
             font-size: 2.5rem;
             bottom: -6.8rem;
         }
-        .project1{
-            background-size: contain;
+        /* .project1{
+            background-size: cover;
         }
         .project2{
             background-size: contain;
         }
         .project3{
-            background-size: contain;
-        }
+            background-size: contain; 
+        }*/
       }
