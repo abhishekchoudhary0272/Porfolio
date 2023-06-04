@@ -248,6 +248,11 @@ li{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.project4{
+    background-image: url(portfolio-images/weather_app.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .project-card::before{
     content:'';
     position: absolute;
