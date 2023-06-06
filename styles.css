@@ -229,30 +229,16 @@ li{
     
     
 }
-.project1{
+.project{
     background-image: url(portfolio-images/gardening-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 1rem;
 }
-.project-container2{
+.project-container-right{
     justify-content: right;
 }
-.project2{
-    background-image: url(portfolio-images/agrify-Emandi-image.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.project3{
-    background-image: url(portfolio-images/razorpay_clone.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.project4{
-    background-image: url(portfolio-images/weather_app.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+
 .project-card::before{
     content:'';
     position: absolute;
@@ -289,7 +275,7 @@ li{
     opacity: 0;
     z-index: 10;
 }
-.project2 .project-number{
+.project-container-right .project-number{
     left:-2%;
 }
 .project-card:hover .project-number{
