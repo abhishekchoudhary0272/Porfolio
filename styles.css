@@ -235,6 +235,30 @@ li{
     background-repeat: no-repeat;
     font-size: 1rem;
 }
+.project2{
+    background-image: url(portfolio-images/weather_app.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1rem;
+}
+.project3{
+    background-image: url(portfolio-images/razorpay_clone.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1rem;
+}
+.project4{
+    background-image: url(portfolio-images/DevDetective.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1rem;
+}
+.project5{
+    background-image: url(portfolio-images/agrify-Emandi-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1rem;
+}
 .project-container-right{
     justify-content: right;
 }
